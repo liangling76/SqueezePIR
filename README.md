@@ -1,6 +1,6 @@
 # SqueezePIR
 
-## Requirement
+## Environment
 SqueezePIR is built on SEAL 3.7.0, cmake version is 3.10
 
 
