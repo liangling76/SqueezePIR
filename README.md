@@ -5,11 +5,11 @@ SqueezePIR is built on SEAL 3.7.0, cmake version is 3.10
 
 
 ## Run the code
-'''
+```
 cmake . -DCMAKE_PREFIX_PATH=~/direct_to_Microsoft_SEAL_build
 make
 ./bin/SqueezePIR
-'''
+```
 
 ## Parameter description
 In this work, the degree of poly in CKKS is 8192
