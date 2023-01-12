@@ -13,7 +13,11 @@ make
 
 ## Parameter description
 In this work, the degree of poly in CKKS is 8192
+
 NUM_OBJ number of rows for the database (2^n)
-NUM_COL number of columns for the database      
+
+NUM_COL number of columns for the database  
+
 RANK    rank of SqueezePIR          
+
 IDX     entry ID that the client wants to retrieve
